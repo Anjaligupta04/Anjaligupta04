@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-Anjaligupta04/Anjaligupta04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjaligupta04&layout=compact)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anjaligupta04&theme=Javascript-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![my GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjaligupta04&theme=highcontrast&show_icons=true)
