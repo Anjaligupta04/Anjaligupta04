@@ -18,3 +18,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anjaligupta04&theme=Javascript-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjaligupta04&theme=highcontrast&show_icons=true)
+
+
+
+ <div align="center"> 
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Anjaligupta04&theme=react-dark">
+</div>
